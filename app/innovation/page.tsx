@@ -148,7 +148,7 @@ export default function InnovationPage() {
                 <h3 className="text-xl font-bold text-primary uppercase">Business Intelligence</h3>
                 <p className="text-muted-foreground leading-relaxed">
                   In a digital landscape defined by speed and precision, timely information has become indispensable. Ax
-                  Scientific's bot framework functions as an essential resource for both current and future clients.
+                  Frisco's bot framework functions as an essential resource for both current and future clients.
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
                   Built on real-time data collection and analysis, these responsive systems support a wide range of
@@ -199,7 +199,7 @@ export default function InnovationPage() {
               </p>
               <p className="leading-relaxed">
                 For organizations of any size, this level of IT security talent is not optional but essential, and Ax
-                Scientific is positioned to identify and deliver professionals capable of meeting these demands.
+                Frisco is positioned to identify and deliver professionals capable of meeting these demands.
               </p>
             </div>
           </div>
