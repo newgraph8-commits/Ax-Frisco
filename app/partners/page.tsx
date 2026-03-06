@@ -79,9 +79,9 @@ export default function PartnersPage() {
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
                 To integrate Ax Frisco's 12 AC system into your Human Resources framework or to enroll in the Ax
-                Scientific system application, please contact an Ax Frisco representative at:{" "}
-                <a href="mailto:info@axscientific.com" className="text-primary hover:underline font-semibold">
-                  info@axscientific.com
+                Frisco system application, please contact an Ax Frisco representative at:{" "}
+                <a href="mailto:info@axfrisco.com" className="text-primary hover:underline font-semibold">
+                  info@axfrisco.com
                 </a>
               </p>
             </div>
