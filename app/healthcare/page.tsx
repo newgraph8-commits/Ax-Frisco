@@ -89,7 +89,7 @@ export default function HealthcarePage() {
 
                   <p className="text-lg text-muted-foreground leading-relaxed">
                     The growing importance of travel nursing across the healthcare sector is reflected in Ax
-                    Scientific's ability to mobilize a nationwide network of seasoned clinicians. Our nurses provide
+                    Frisco's ability to mobilize a nationwide network of seasoned clinicians. Our nurses provide
                     dependable support during critical staffing gaps—including parental or personal leave, unexpected
                     injuries, and seasonal surges—and many are able to coordinate flexible scheduling directly with
                     partnering hospitals. This adaptability allows healthcare organizations to maintain continuity of
