@@ -175,7 +175,7 @@ export default function GetInTouchPage() {
                   disabled={isSubmitting}
                   className="w-full bg-primary text-white py-4 text-sm font-bold uppercase tracking-widest hover:bg-primary/90 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
                 >
-                  {isSubmitting ? "Submitting..." : "Submit Query to Ax Scientific"}
+                  {isSubmitting ? "Submitting..." : "Submit Query to Ax Frisco"}
                 </button>
 
                 {/* Success/Error Messages */}

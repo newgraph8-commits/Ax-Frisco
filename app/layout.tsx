@@ -18,7 +18,7 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: "Ax Scientific",
+  title: "Ax Frisco",
   metadataBase: new URL("https://axfrost.com"),
   icons: {
     icon: [
@@ -34,12 +34,12 @@ export const metadata: Metadata = {
     apple: "/apple-touch-icon.png",
   },
   openGraph: {
-    title: "Ax Scientific",
+    title: "Ax Frisco",
     url: "https://axfrost.com",
     images: null,
   },
   twitter: {
-    title: "Ax Scientific",
+    title: "Ax Frisco",
     card: "summary",
     images: null,
   },

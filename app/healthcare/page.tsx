@@ -89,7 +89,7 @@ export default function HealthcarePage() {
 
                   <p className="text-lg text-muted-foreground leading-relaxed">
                     The growing importance of travel nursing across the healthcare sector is reflected in Ax
-                    Scientific's ability to mobilize a nationwide network of seasoned clinicians. Our nurses provide
+                    Frisco's ability to mobilize a nationwide network of seasoned clinicians. Our nurses provide
                     dependable support during critical staffing gaps—including parental or personal leave, unexpected
                     injuries, and seasonal surges—and many are able to coordinate flexible scheduling directly with
                     partnering hospitals. This adaptability allows healthcare organizations to maintain continuity of
@@ -101,14 +101,14 @@ export default function HealthcarePage() {
                   </h3>
 
                   <p className="text-lg text-muted-foreground leading-relaxed">
-                    Ax Scientific equips healthcare organizations to remain responsive and well-positioned amid ongoing
+                    Ax Frisco equips healthcare organizations to remain responsive and well-positioned amid ongoing
                     industry shifts. Our network of medical specialists and healthcare consultants delivers guidance
                     grounded in precision, discretion, and strategic insight.
                   </p>
 
                   <p className="text-lg text-muted-foreground leading-relaxed">
                     For instance, hospitals facing variable patient volumes—particularly those in rural and underserved
-                    areas—benefit significantly from Ax Scientific's travel nursing resources. This capability, combined
+                    areas—benefit significantly from Ax Frisco's travel nursing resources. This capability, combined
                     with our wider healthcare expertise, supports organizations in sustaining consistent staffing
                     levels. As a result, clients are better equipped to adapt to evolving demands and maintain
                     operational readiness.
