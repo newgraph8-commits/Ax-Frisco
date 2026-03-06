@@ -101,14 +101,14 @@ export default function HealthcarePage() {
                   </h3>
 
                   <p className="text-lg text-muted-foreground leading-relaxed">
-                    Ax Scientific equips healthcare organizations to remain responsive and well-positioned amid ongoing
+                    Ax Frisco equips healthcare organizations to remain responsive and well-positioned amid ongoing
                     industry shifts. Our network of medical specialists and healthcare consultants delivers guidance
                     grounded in precision, discretion, and strategic insight.
                   </p>
 
                   <p className="text-lg text-muted-foreground leading-relaxed">
                     For instance, hospitals facing variable patient volumes—particularly those in rural and underserved
-                    areas—benefit significantly from Ax Scientific's travel nursing resources. This capability, combined
+                    areas—benefit significantly from Ax Frisco's travel nursing resources. This capability, combined
                     with our wider healthcare expertise, supports organizations in sustaining consistent staffing
                     levels. As a result, clients are better equipped to adapt to evolving demands and maintain
                     operational readiness.

@@ -3,7 +3,7 @@ import { Footer } from "@/components/layout/footer"
 import Image from "next/image"
 
 export const metadata = {
-  title: "Strategic Execution - Ax Scientific",
+  title: "Strategic Execution - Ax Frisco",
   description: "Strategic execution and actionable information for modern American businesses",
 }
 
@@ -18,7 +18,7 @@ export default function StrategicExecutionPage() {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-primary mb-8">Strategic Execution</h1>
             <p className="text-lg text-muted-foreground leading-relaxed mb-12">
               In contemporary U.S. businesses, the ability to shape broad audiences through strategic, thoughtfully
-              constructed messaging remains our decisive advantage. Ax Scientific delivers the resources and expertise
+              constructed messaging remains our decisive advantage. Ax Frisco delivers the resources and expertise
               to make that possible.
             </p>
 

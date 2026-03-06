@@ -3,7 +3,7 @@ import { Footer } from "@/components/layout/footer"
 import Image from "next/image"
 
 export const metadata = {
-  title: "Partners - Ax Scientific",
+  title: "Partners - Ax Frisco",
   description: "Our trusted partners in executive recruitment and talent solutions",
 }
 
@@ -75,11 +75,11 @@ export default function PartnersPage() {
             <div className="max-w-4xl">
               <p className="text-lg text-muted-foreground leading-relaxed mb-6">
                 Case studies featuring real-world examples have demonstrated the effectiveness, speed, adaptability, and
-                overall success of Ax Scientific's system.
+                overall success of Ax Frisco's system.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                To integrate Ax Scientific's 12 AC system into your Human Resources framework or to enroll in the Ax
-                Scientific system application, please contact an Ax Scientific representative at:{" "}
+                To integrate Ax Frisco's 12 AC system into your Human Resources framework or to enroll in the Ax
+                Scientific system application, please contact an Ax Frisco representative at:{" "}
                 <a href="mailto:info@axscientific.com" className="text-primary hover:underline font-semibold">
                   info@axscientific.com
                 </a>
